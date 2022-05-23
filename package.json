@@ -1,0 +1,14 @@
+{
+  "name": "u-pack",
+  "version": "1.0.5",
+  "description": "This package serves you the best espresso across the country",
+  "author": "Hesan Aminiloo",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
